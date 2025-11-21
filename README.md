@@ -1,4 +1,4 @@
-# 🧠 Algorithms (Baekjoon / Programmers)
+# Algorithms (Baekjoon / Programmers)
 
 백준, 프로그래머스 문제를 풀고 정리하는 알고리즘 학습용 저장소입니다.  
 주 사용 언어는 **C++ / Java / Python**이며,  
