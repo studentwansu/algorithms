@@ -14,6 +14,7 @@ algorithms
  │   └─ 백준
  │       └─ Bronze
  │           └─ 1000. A+B
+ │           └─ 1001. A-B
  ├─ C++
  │   └─ 백준
  └─ Python
